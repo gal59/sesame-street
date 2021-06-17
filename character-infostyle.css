@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(121, 160, 121);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
+    width: 90%;
+    margin: 50px auto;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+}
+.flex2{
+    display: flex;
+    justify-content: space-around;
+}
+.flex3{
+    display: flex;
+    justify-content: center;
+}
+.flex-sesameStreet {
+    display: flex;
+    padding: 35px;
+    flex-direction: row;
+    align-items: center;
+    border: 3px solid #edff57;
+    margin-bottom: 10px;
+    width: 30%;
+    border-radius: 40%;
+}
+.block{
+    width: 30%;
+    height: 400px;
+}
+.block1{
+    background-color: rgb(207, 207, 97);
+}
+.block2{
+    background-color: rgb(78, 122, 148);
+}
+.block3{
+    background-color: rgb(255, 130, 47);
+}
+.block4{
+    background-color: rgb(28, 230, 28);
+}
+.block5{
+    background-color: red;
+}
+.link a{
+    background-color: rgb(218, 208, 155);
+    padding: 10px;
+    border-radius: 9px;
+    color: rgb(112, 88, 58);
+}
+h1{
+    text-decoration: underline rgb(24, 124, 155);
+    letter-spacing: 26px;
+    text-align: center;
+}
+.color1{
+    color:rgb(15, 127, 202);
+}
+.color2{
+    color: rgb(250, 117, 9);
+}
+.color3{
+    color:rgb(115, 189, 238);
+}
+.color4{
+    color: rgb(190, 87, 2);
+}
+.color5{
+    color: rgb(207, 207, 97);
+}
